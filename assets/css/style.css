@@ -1,8 +1,9 @@
 h1 {
     font-family: 'Press Start 2P', cursive;
+    color: red;
 }
 
-#gameboard {
+#board {
     position: absolute;
     width: 550px;
     height: 450px;
