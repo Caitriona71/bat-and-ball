@@ -21,3 +21,4 @@ function moveBall() {
     }
 }
 
+var timer=setInterval(moveBall, 10);
